@@ -30,6 +30,7 @@ Berikut Tampilan Lunch Tray Apps
 ![Preview](images/preview2.jpg)
 ![Preview](images/preview3.jpg)
 ![Preview](images/preview4.jpg)
+![Preview](images/preview5.jpg)
 
 
 ## Plugins
